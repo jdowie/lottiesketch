@@ -5,6 +5,15 @@ A demo of Lottie and React Native
 
 * Clone project
 * cd into root folder and run `npm install`
-cd ios
-run pod install
-react-native run-ios / react-native run-android
+* cd ios run `pod install`
+
+## Running on iOS
+
+* In the root project folder run `react-native run-ios` 
+
+## Running on Android
+
+* Download Android Studio
+* Download an emulator of your choice
+* Open the `android` folder of the project within Android Studio
+* Click the play button to run the app
