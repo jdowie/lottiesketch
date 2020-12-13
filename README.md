@@ -5,7 +5,7 @@ A demo of Lottie and React Native
 
 * Clone project
 * cd into root folder and run `npm install`
-* cd ios run `pod install`
+* cd into the ios folder and run `pod install`
 
 ## Running on iOS
 
