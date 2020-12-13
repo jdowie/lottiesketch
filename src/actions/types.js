@@ -1,0 +1,1 @@
+export const NAVIGATE_TO_SCREEN = 'NAVIGATE_TO_SCREEN';
